@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Piyush10166
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning Python, Java, DSSA
+- 🌱 I’m currently learning Python, Java, DSA
 - 📫 To reach me by my Gmail id: piyushpankaj71203@gmail.com
 
 <!---
